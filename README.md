@@ -2,4 +2,5 @@
  navn Ellen 
 oprativsystem Windows 11 Home
 
-hei
+
+ny endring
